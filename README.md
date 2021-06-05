@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-- Even I don't want to update default readme. Now you can imagine about myself.
+- Even I don't want to update default readme. Now you can imagine about me.
 <!---
 balwant-cloud/balwant-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
